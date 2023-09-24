@@ -11,4 +11,4 @@ npm install @react-native-masked-view/masked-view @react-navigation/stack react-
 npx expo install react-native-screens react-native-safe-area-context
 
 [Stack Navigator](https://reactnavigation.org/docs/native-stack-navigator/)
-npm install @react-navigation/native-stack
+npm install @react-navigation/native-stack# class3-expo-app
